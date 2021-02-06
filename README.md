@@ -1,16 +1,26 @@
 # OSCP Training
 
-##### Prerequisitos
+La siguiente guía es preparada por miembros del [OWASP Panamá](https://owasp.org/www-chapter-panama-city/) durante su camino de preparación para la certificación **[OSCP](https://www.offensive-security.com/)**
 
-* Cuenta de HTB VIP 13 dolores por mes 
+**Nota:** Antes de iniciar debemos comentar que lo expuesto en esta guía es nuestra preparación inicial, no es 100% segura y no asegura obtener la certificación.
 
-* Máquinas virtuales Vulnhub
+Antes de iniciar compartimos un enlace donde podemos observar las diversas certificaciones en el ámbito de seguridad informática.
 
-* Cursos de Mastemind de S4vitar (sugerencia, tomar con HTB VIP y curso Python Mastermind )
+https://pauljerimy.com/security-certification-roadmap/
 
-* Cursos de Python Mastermind Nate, Udemy 
+##### Pre-requisitos
 
-* Cursos de Python https://www.udemy.com/course/python-de-0-hasta-hacking/ 
+Esto son los requisitos mínimos necesarios para una preparación correcta según nuestra opinión
+
+* [Cuenta de HTB VIP 13 dolores por mes](https://www.hackthebox.eu/) 
+
+* [Máquinas virtuales Vulnhub](https://www.vulnhub.com/)
+
+* [Cursos de Mastemind de S4vitar](https://www.mastermind.ac/courses/introduccion-al-hacking-etico) (sugerencia, tomar con HTB VIP y curso Python Mastermind )
+
+* [Cursos de Python Mastermind Nate](https://www.mastermind.ac/courses/iniciacion-python) 
+
+* [Cursos de Python](https://www.udemy.com/course/python-de-0-hasta-hacking/ )
 
 ##### OSCP PATH
 
@@ -55,6 +65,7 @@
 
 * https://www.linkedin.com/posts/yashika-dhir_best-of-300-ctf-writeups-for-oscp-https-activity-6594490316550623232-JERW/
 * https://www.vulnhub.com/entry/infosec-prep-oscp,508/
+* [Machines HTB y Vulnhub](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0)
 
 ###### Reportes
 
@@ -63,3 +74,13 @@
 ###### Mapa mental
 
 * https://github.com/corneacristian/OSCP-MindMap/blob/main/OSCP-MindMap.png
+
+###### Buffer Overflow
+
+* https://vk9-sec.com/bufferoverflow-lab-1-freefloat-ftp-server/
+* https://5bhuv4n35h.github.io/buffer_overflow/
+* https://www.youtube.com/watch?v=sdZ8aE7yxMk&t=20s
+* https://backtrackacademy.com/curso/programacion-scripting-python
+* https://hacking-pentesting.blogspot.com/
+* https://www.youtube.com/watch?v=YDVvJx8kV_U
+* https://github.com/EdOverflow/
